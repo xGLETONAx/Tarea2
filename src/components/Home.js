@@ -68,7 +68,7 @@ function Home() {
               <Card.Body>
                 <Card.Title>Desarrollo Web</Card.Title>
                 <Card.Text>
-                  Some quick example text to build on the card title and make up the bulk of the card's content.
+                  Estudia el diseño y la programación de sitios web. Se centra en tecnologías como HTML, CSS, JavaScript y frameworks para crear aplicaciones web interactivas y funcionales.
                 </Card.Text>
               </Card.Body>
             </Card>
@@ -79,7 +79,7 @@ function Home() {
               <Card.Body>
                 <Card.Title>Arquitectura de Computadoras II</Card.Title>
                 <Card.Text>
-                  Some quick example text to build on the card title and make up the bulk of the card's content.
+                Aborda el diseño y funcionamiento de los componentes de un ordenador, como el procesador, la memoria y los sistemas de almacenamiento, y cómo interactúan entre sí.
                 </Card.Text>
               </Card.Body>
             </Card>
@@ -90,7 +90,7 @@ function Home() {
               <Card.Body>
                 <Card.Title>Análisis de Sistemas II</Card.Title>
                 <Card.Text>
-                  Some quick example text to build on the card title and make up the bulk of the card's content.
+                  Se enfoca en la planificación, desarrollo y mejora de sistemas informáticos. Incluye la recolección de requisitos y la creación de soluciones tecnológicas para problemas organizacionales.
                 </Card.Text>
               </Card.Body>
             </Card>
@@ -101,7 +101,7 @@ function Home() {
               <Card.Body>
                 <Card.Title>Ética Profesional</Card.Title>
                 <Card.Text>
-                  Some quick example text to build on the card title and make up the bulk of the card's content.
+                  Explora los principios éticos y la responsabilidad profesional en el ámbito de la tecnología, ayudando a tomar decisiones éticas en situaciones complejas.
                 </Card.Text>
               </Card.Body>
             </Card>
@@ -112,7 +112,7 @@ function Home() {
               <Card.Body>
                 <Card.Title>Redes de Computadoras I</Card.Title>
                 <Card.Text>
-                  Some quick example text to build on the card title and make up the bulk of the card's content.
+                  Estudia cómo se conectan y comunican las computadoras a través de redes, cubriendo protocolos, configuración de routers y seguridad en la transmisión de datos.
                 </Card.Text>
               </Card.Body>
             </Card>
