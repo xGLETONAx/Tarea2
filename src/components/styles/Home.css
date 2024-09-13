@@ -1,0 +1,30 @@
+/* src/styles/Home.css */
+.principalContainer {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: rgb(102, 129, 202);
+    font-weight: bold;
+}
+
+.carrusel-edit {
+    width: 60%;
+}
+
+.cards-edit {
+    display: flex;
+    align-items: center;
+}
+
+  h2 {
+    color: #007bff;
+  }
+  
+  footer {
+    background-color: #343a40;
+    color: white;
+  }
+  
